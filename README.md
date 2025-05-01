@@ -33,16 +33,6 @@ The project investigates how well different regression models (Random Forest, Li
 ### Final Conclusion:
 When it comes to predicting car prices accurately, **Random Forest Regression** is the preferred model. The results emphasize the need for advanced models that can handle the complexity of automobile pricing datasets. Ongoing research, feature engineering, and model refinement are essential for improving accuracy and adapting to market changes.
 
-## Getting Started
-
-1. Clone this repository.
-2. Install necessary libraries by running:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the project in your preferred IDE.
-4. Follow the setup instructions in the documentation folder to start contributing.
-
 ## Tech Stack
 
 - Python
